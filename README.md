@@ -40,13 +40,17 @@ Ensure your environment (`.myenv`) is active, then run:
 pip install -r requirements.txt
 
 ```
+### 4. Launch the Interactive Dashboard
 
+To interact with the metrics, country filters, and analytical visualizations inside your web browser, run the user-interface application:
+
+```bash
+streamlit run app.py
+
+```
 ## Legal & Citation Attribution
 
 Data sourced via the National Consortium for the Study of Terrorism and Responses to Terrorism (START).
 
 > *National Consortium for the Study of Terrorism and Responses to Terrorism (START), University of Maryland. (2018). The Global Terrorism Database (GTD) [Data file]. Retrieved from https://www.start.umd.edu/gtd*
 
-```
-
-```
