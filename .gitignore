@@ -1,0 +1,12 @@
+# Block the massive raw dataset 
+data/raw data/
+
+# Block local virtual environment folder
+.myenv/
+.env/
+env/
+
+# Block Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
